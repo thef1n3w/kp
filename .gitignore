@@ -1,0 +1,59 @@
+# Build outputs
+build/
+build_*/
+cmake-build-*/
+out/
+bin/
+obj/
+
+# CMake / Ninja generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+install_manifest.txt
+*.ninja
+.ninja_*
+
+# Compiled binaries and debug symbols
+*.exe
+*.dll
+*.lib
+*.a
+*.o
+*.obj
+*.pdb
+*.ilk
+*.exp
+
+# Local editor and IDE files
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS noise
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Python cache from helper scripts
+__pycache__/
+*.py[cod]
+
+# Local project documentation
+docs/
+
+# Local GIF excluded from the repository
+/res/Telegram_UjXAVk4uyC.gif

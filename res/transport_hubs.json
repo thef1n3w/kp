@@ -1,0 +1,41 @@
+{
+  "regions": [
+    { "name": "Belarus", "hubs": [
+      { "type": "airport", "name": "Minsk National Airport", "x": 0.55200, "y": 0.30200, "closed": false }
+    ] },
+    { "name": "USA", "hubs": [
+      { "type": "airport", "name": "USA International Airport", "x": 0.20600, "y": 0.39000, "closed": false },
+      { "type": "port", "name": "USA Atlantic Port", "x": 0.25200, "y": 0.45500, "closed": false },
+      { "type": "port", "name": "USA Pacific Port", "x": 0.13500, "y": 0.40000, "closed": false }
+    ] },
+    { "name": "Canada", "hubs": [
+      { "type": "airport", "name": "Canada International Airport", "x": 0.19800, "y": 0.24500, "closed": false },
+      { "type": "port", "name": "Canada Pacific Port", "x": 0.12600, "y": 0.29800, "closed": false }
+    ] },
+    { "name": "Australia", "hubs": [
+      { "type": "airport", "name": "Sydney Airport", "x": 0.82500, "y": 0.74000, "closed": false },
+      { "type": "port", "name": "Sydney Port", "x": 0.82570, "y": 0.77030, "closed": false }
+    ] },
+    { "name": "Ukraine", "hubs": [
+      { "type": "airport", "name": "Kyiv Airport", "x": 0.56000, "y": 0.33500, "closed": false },
+      { "type": "port", "name": "Odesa Port", "x": 0.57800, "y": 0.35200, "closed": false }
+    ] },
+    { "name": "Poland", "hubs": [
+      { "type": "airport", "name": "Warsaw Airport", "x": 0.52400, "y": 0.31300, "closed": false },
+      { "type": "port", "name": "Gdansk Port", "x": 0.52800, "y": 0.30000, "closed": false }
+    ] },
+    { "name": "Italy", "hubs": [
+      { "type": "airport", "name": "Rome Airport", "x": 0.51200, "y": 0.38400, "closed": false },
+      { "type": "port", "name": "Italy Port", "x": 0.51400, "y": 0.41800, "closed": false }
+    ] },
+    { "name": "France", "hubs": [
+      { "type": "airport", "name": "Paris Airport", "x": 0.47600, "y": 0.35200, "closed": false },
+      { "type": "port", "name": "France Atlantic Port", "x": 0.46800, "y": 0.37800, "closed": false }
+    ] },
+    { "name": "Spain", "hubs": [
+      { "type": "airport", "name": "Madrid Airport", "x": 0.46200, "y": 0.39400, "closed": false },
+      { "type": "port", "name": "Spain Mediterranean Port", "x": 0.45300, "y": 0.41600, "closed": false },
+      { "type": "airport", "name": "Spain airport 2", "x": 0.86765, "y": 0.21204, "closed": false }
+    ] }
+  ]
+}

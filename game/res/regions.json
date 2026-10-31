@@ -1,0 +1,14 @@
+{
+  "regions": [
+    { "name": "Belarus",   "x": 0.552, "y": 0.300, "population": 9132629 },
+    { "name": "ASD",       "x": 0.521, "y": 0.475, "population": 1 },
+    { "name": "USA",       "x": 0.175, "y": 0.310, "population": 340110988 },
+    { "name": "Canada",    "x": 0.175, "y": 0.215, "population": 41288599 },
+    { "name": "Australia", "x": 0.825, "y": 0.720, "population": 27196812 },
+    { "name": "Ukraine",   "x": 0.540, "y": 0.245, "population": 37860221 },
+    { "name": "Poland",    "x": 0.515, "y": 0.235, "population": 36559233 },
+    { "name": "Italy",     "x": 0.497, "y": 0.295, "population": 58952704 },
+    { "name": "France",    "x": 0.460, "y": 0.275, "population": 68551653 },
+    { "name": "Spain",     "x": 0.445, "y": 0.305, "population": 48848840 }
+  ]
+}
